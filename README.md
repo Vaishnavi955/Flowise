@@ -1,8 +1,7 @@
 # SCM Assistant
 
 ## Public Chatbot URL
-
-
+https://cloud.flowiseai.com/chatbot/8385aae6-1cda-4bdf-a765-d2b509fd3b7a
 
 ## LLM Used
 
